@@ -28,5 +28,14 @@ class LinkedLIst{
          last.next = new_node;
       }
    }
+    
+   public static void printlist(Linked list){
+     Node currNode = list.head;
+     
+     while(currNode.next != null){
+       System.out.println(currNode.data);
+       currNode = currNode.next;
+   }
+   }
 
 }
