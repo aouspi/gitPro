@@ -6,3 +6,7 @@ git add "file name" - to add file to staging area.
 
 git log- to see the commits
 git diff filename - to see the difference between two commits.
+git commit -m "message" - commiting the file.
+
+git remote add origin https://github.com/aouspi/MyInfo.git - create a origin branch name
+git push -u origin master
