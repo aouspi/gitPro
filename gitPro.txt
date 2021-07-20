@@ -1,2 +1,5 @@
 git init - command to activate git
 working directory: where our actual files exists.
+
+git status- to see which files are and not in staging area
+git add "file name" - to add file to staging area.
