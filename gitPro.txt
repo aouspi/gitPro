@@ -1,0 +1,2 @@
+git init - command to activate git
+working directory: where our actual files exists.
